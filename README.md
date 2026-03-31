@@ -1,5 +1,5 @@
- Built an Advanced Excel-based AP Aging Report to track outstanding invoices across 30/60/90/90+ day buckets.
- Automated duplicate invoice detection to prevent erroneous payments.
- Monitored payment status and TAT to ensure timely processing.
- Developed a dashboard for payment prioritization and KPI reporting.
- Improved visibility and control over Accounts Payable operations.
+ Developed an Advanced Excel-based AR Aging Report to track outstanding customer invoices across aging buckets.
+ Monitored collections performance and customer payment behavior.
+ Improved receivables management and cash flow visibility.
+ Enabled efficient tracking of overdue invoices for better follow-ups.
+ Supported accurate reporting and decision-making for finance teams.
